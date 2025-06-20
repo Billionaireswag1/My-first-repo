@@ -1,5 +1,5 @@
  Brief Introduction About Myself
 
-My name is Dineo Lesabe, and I am currently learning how to use GitHub for version control and collaboration. I have a passion for technology and problem-solving, and I am excited to grow my skills in software development.
+My name is [Dineo Lesabe], and I am currently learning how to use GitHub for version control and collaboration. I have a passion for technology and problem-solving, and I am excited to grow my skills in software development.
 
 Through this journey, I hope to build interesting projects, contribute to open-source, and collaborate with other developers. This is my first step toward becoming a proficient GitHub user.
